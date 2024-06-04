@@ -4,7 +4,6 @@ This course is cool ma frien
 
 Updates made on master on Github before rebase
 
-# PUerpose
+# Repo purpose
 
-this will made conflicts on the remote side
-this was a local edit
+This is just a readme file
